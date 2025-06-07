@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph S1["3.2.1 兵棋环境与态势生成"]
         A[兵棋原始数据] --> B{态势数据结构化};
